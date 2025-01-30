@@ -104,6 +104,7 @@ This project is open-source under the **MIT License**.
 ## Author
 - **GitHub**: [REBIN SCIENTIST](https://github.com/REBINFERNART)
 - **Email**: krebinfernart@gmail.com
+- **HUGGINGFACE:https://huggingface.co/spaces/REBIN007/fanng_stock_predict
 
 ---
 
